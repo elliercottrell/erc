@@ -4,36 +4,19 @@ import "./Gallery.css";
 function HomeGallery() {
   const homeGalleryImages = [
     {
-      img: "Images/morocco/morocco_1.png",
-      link: "pjo",
+      img: "Images/portrait/portrait_1.png",
+      link: "pjfi",
     },
     {
-      img: "Images/morocco/morocco_2.png",
-      link: "pjo",
-    },
-    {
-      img: "Images/morocco/morocco_3.png",
-      link: "pjo",
-    },
-    {
-      img: "Images/morocco/morocco_4.png",
-      link: "pjo",
-    },
-    {
-      img: "Images/morocco/morocco_5.png",
-      link: "pjo",
-    },
-    {
-      img: "Images/morocco/morocco_6.png",
-      link: "pjo",
-    },
-    {
-      img: "Images/morocco/morocco_7.png",
+      img: "Images/morocco/morocco_11.png",
       link: "pjt",
     },
-
     {
-      img: "Images/morocco/morocco_8.png",
+      img: "Images/print/print_2.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/morocco/morocco_12.png",
       link: "pjt",
     },
     {
@@ -45,28 +28,68 @@ function HomeGallery() {
       link: "pjt",
     },
     {
-      img: "Images/morocco/morocco_11.png",
-      link: "pjt",
+      img: "Images/portrait/portrait_5.png",
+      link: "pjfi",
     },
     {
-      img: "Images/morocco/morocco_12.png",
-      link: "pjt",
-    },
-    {
-      img: "Images/morocco/morocco_13.png",
+      img: "Images/morocco/morocco_20.png",
       link: "pjth",
     },
     {
-      img: "Images/morocco/morocco_14.png",
-      link: "pjth",
+      img: "Images/morocco/morocco_3.png",
+      link: "pjo",
     },
     {
-      img: "Images/morocco/morocco_15.png",
-      link: "pjth",
+      img: "Images/print/print_1.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/nature/nature_2.png",
+      link: "pjfi",
     },
     {
       img: "Images/morocco/morocco_16.png",
       link: "pjth",
+    },
+    {
+      img: "Images/morocco/morocco_7.png",
+      link: "pjt",
+    },
+    {
+      img: "Images/morocco/morocco_22.png",
+      link: "pjf",
+    },
+    {
+      img: "Images/model/model_2.png",
+      link: "pjf",
+    },
+    {
+      img: "Images/morocco/morocco_26.png",
+      link: "pjf",
+    },
+    {
+      img: "Images/morocco/morocco_6.png",
+      link: "pjo",
+    },
+    {
+      img: "Images/morocco/morocco_2.png",
+      link: "pjo",
+    },
+    {
+      img: "Images/model/model_1.png",
+      link: "pjf",
+    },
+    {
+      img: "Images/nature/nature_7.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/nature/nature_1.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/morocco/morocco_24.png",
+      link: "pjf",
     },
     {
       img: "Images/morocco/morocco_17.png",
@@ -77,35 +100,68 @@ function HomeGallery() {
       link: "pjth",
     },
     {
+      img: "Images/morocco/morocco_13.png",
+      link: "pjth",
+    },
+    {
+      img: "Images/model/model_5.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/nature/nature_4.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/morocco/morocco_15.png",
+      link: "pjth",
+    },
+    {
+      img: "Images/morocco/morocco_8.png",
+      link: "pjt",
+    },
+    {
+      img: "Images/morocco/morocco_14.png",
+      link: "pjth",
+    },
+    {
+      img: "Images/print/print_3.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/model/model_3.png",
+      link: "pjf",
+    },
+    {
+      img: "Images/nature/nature_6.png",
+      link: "pjfi",
+    },
+    {
       img: "Images/morocco/morocco_19.png",
       link: "pjth",
     },
     {
-      img: "Images/morocco/morocco_20.png",
-      link: "pjth",
-    },
-    {
-      img: "Images/morocco/morocco_21.png",
-      link: "pjf",
-    },
-    {
-      img: "Images/morocco/morocco_22.png",
-      link: "pjf",
+      img: "Images/portrait/portrait_3.png",
+      link: "pjfi",
     },
     {
       img: "Images/morocco/morocco_23.png",
       link: "pjf",
     },
     {
-      img: "Images/morocco/morocco_24.png",
+      img: "Images/portrait/portrait_4.png",
+      link: "pjfi",
+    },
+    {
+      img: "Images/morocco/morocco_21.png",
       link: "pjf",
     },
     {
       img: "Images/morocco/morocco_25.png",
       link: "pjf",
     },
+
     {
-      img: "Images/morocco/morocco_26.png",
+      img: "Images/morocco/morocco_28.png",
       link: "pjf",
     },
     {
@@ -113,55 +169,49 @@ function HomeGallery() {
       link: "pjf",
     },
     {
-      img: "Images/morocco/morocco_28.png",
-      link: "pjf",
+      img: "Images/portrait/portrait_2.png",
+      link: "pjfi",
     },
     {
-      img: "Images/model/model_1.png",
-      link: "pjf",
-    },
-    {
-      img: "Images/model/model_2.png",
-      link: "pjf",
-    },
-    {
-      img: "Images/model/model_3.png",
-      link: "pjf",
+      img: "Images/morocco/morocco_4.png",
+      link: "pjo",
     },
     {
       img: "Images/model/model_4.png",
       link: "pjf",
     },
     {
-      img: "Images/model/model_5.png",
+      img: "Images/nature/nature_9.png",
       link: "pjfi",
     },
     {
-      img: "Images/model/model_6.png",
+      img: "Images/nature/nature_10.png",
       link: "pjfi",
     },
     {
-      img: "Images/model/model_7.png",
+      img: "Images/portrait/portrait_6.png",
       link: "pjfi",
     },
     {
-      img: "Images/p5_4.jpg",
+      img: "Images/morocco/morocco_5.png",
+      link: "pjo",
+    },
+    {
+      img: "Images/nature/nature_5.png",
       link: "pjfi",
     },
     {
-      img: "Images/p5_5.jpg",
+      img: "Images/nature/nature_8.png",
       link: "pjfi",
     },
+
     {
-      img: "Images/p5_6.jpg",
-      link: "pjfi",
+      img: "Images/morocco/morocco_1.png",
+      link: "pjo",
     },
+
     {
-      img: "Images/p5_7.jpg",
-      link: "pjfi",
-    },
-    {
-      img: "Images/p5_8.jpg",
+      img: "Images/print/print_4.png",
       link: "pjfi",
     },
   ];
