@@ -4,28 +4,31 @@ import "./ProjectTwo.css";
 function ProjectThree() {
   const galleryImages = [
     {
-      img: "Images/p3_1.jpg",
+      img: "Images/nature/nature_1.png",
     },
     {
-      img: "Images/p3_2.jpg",
+      img: "Images/nature/nature_2.png",
     },
     {
-      img: "Images/p3_3.jpg",
+      img: "Images/nature/nature_4.png",
     },
     {
-      img: "Images/p3_4.jpg",
+      img: "Images/nature/nature_6.png",
     },
     {
-      img: "Images/p3_5.jpg",
+      img: "Images/nature/nature_5.png",
     },
     {
-      img: "Images/p3_6.jpg",
+      img: "Images/nature/nature_8.png",
     },
     {
-      img: "Images/p3_7.jpg",
+      img: "Images/nature/nature_9.png",
     },
     {
-      img: "Images/p3_8.jpg",
+      img: "Images/nature/nature_10.png",
+    },
+    {
+      img: "Images/nature/nature_7.png",
     },
   ];
 

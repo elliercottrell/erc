@@ -4,28 +4,16 @@ import "./ProjectFour.css";
 function ProjectFive() {
   const galleryImages = [
     {
-      img: "Images/p5_1.jpg",
+      img: "Images/print/print_1.png",
     },
     {
-      img: "Images/p5_2.jpg",
+      img: "Images/print/print_2.png",
     },
     {
-      img: "Images/p5_3.jpg",
+      img: "Images/print/print_3.png",
     },
     {
-      img: "Images/p5_4.jpg",
-    },
-    {
-      img: "Images/p5_5.jpg",
-    },
-    {
-      img: "Images/p5_6.jpg",
-    },
-    {
-      img: "Images/p5_7.jpg",
-    },
-    {
-      img: "Images/p5_8.jpg",
+      img: "Images/print/print_4.png",
     },
   ];
 
