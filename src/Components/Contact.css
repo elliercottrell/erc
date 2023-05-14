@@ -52,7 +52,8 @@ a {
   }
 
   .heading h2 {
-    margin-left: -240px;
+    margin-left: -220px;
+    padding: 0px 0px 15px 0px;
   }
   .text {
     padding: 16.3px;
