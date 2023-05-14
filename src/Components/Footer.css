@@ -1,0 +1,31 @@
+.footerWrap {
+  border-bottom: solid 3px #434141;
+  margin-bottom: 0px;
+}
+
+.ercFooterTitle {
+  color: #434141;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+  letter-spacing: 7px;
+  text-align: center;
+}
+
+.ercFooterLink {
+  text-decoration: none;
+}
+
+h2 {
+  margin: 10px 0px 0px 0px;
+}
+
+@media (min-width: 900px) {
+  .footerWrap {
+    width: 90%;
+    margin-left: 10%;
+  }
+
+  h2 {
+    margin: 20px;
+  }
+}
