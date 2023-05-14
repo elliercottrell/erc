@@ -48,7 +48,7 @@ a {
     border-right: solid 3px #434141;
   }
   h2 {
-    padding: 0px;
+    padding: 0px 0px 10px 0px;
   }
   .heading {
     width: 200%;
