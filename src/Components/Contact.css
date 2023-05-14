@@ -47,13 +47,16 @@ a {
     border-bottom: solid 3px #434141;
     border-right: solid 3px #434141;
   }
+  h2 {
+    padding: 0px;
+  }
   .heading {
     width: 200%;
   }
 
   .heading h2 {
     margin-left: -180px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0px;
   }
   .text {
     padding: 19.1px;
