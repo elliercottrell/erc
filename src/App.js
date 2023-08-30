@@ -10,7 +10,10 @@ function App() {
     <div className="App">
       <Header />
       <div className="galleryWrap">
-        <HomeGallery />
+        {/* <HomeGallery /> */}
+        <div class="update">
+          <h2>Just updating</h2>
+        </div>
       </div>
       <Contact />
       <Form />
