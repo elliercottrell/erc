@@ -222,6 +222,16 @@ function HomeGallery() {
         <div class="update">
           <h2>just updating...</h2>
         </div>
+        {/* {homeGalleryImages &&
+          homeGalleryImages.map((image, index) => {
+            return (
+              <div className="single" key={index}>
+                <Link to={image.link}>
+                  <img src={image.img} alt="" />
+                </Link>
+              </div>
+            );
+          })} */}
       </div>
     </div>
   );
