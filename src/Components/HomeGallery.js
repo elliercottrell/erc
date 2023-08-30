@@ -218,11 +218,11 @@ function HomeGallery() {
 
   return (
     <div className="App">
-      <div class="update">
-        <h2>just updating...</h2>
-      </div>
-      {/* <div className="imageWrap">
-        {homeGalleryImages &&
+      <div className="imageWrap">
+        <div class="update">
+          <h2>just updating...</h2>
+        </div>
+        {/* {homeGalleryImages &&
           homeGalleryImages.map((image, index) => {
             return (
               <div className="single" key={index}>
@@ -231,8 +231,8 @@ function HomeGallery() {
                 </Link>
               </div>
             );
-          })}
-      </div> */}
+          })} */}
+      </div>
     </div>
   );
 }
