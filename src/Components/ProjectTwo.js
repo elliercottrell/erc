@@ -4,19 +4,22 @@ import "./ProjectTwo.css";
 function ProjectTwo() {
   const galleryImagesTwo = [
     {
-      img: "Images/model/model_1.png",
+      img: "Images/model/minju1.jpeg",
     },
     {
-      img: "Images/model/model_2.png",
+      img: "Images/model/tim.jpeg",
     },
     {
-      img: "Images/model/model_3.png",
+      img: "Images/model/friday.jpeg",
     },
     {
-      img: "Images/model/model_4.png",
+      img: "Images/model/moonlake.jpeg",
     },
     {
-      img: "Images/model/model_5.png",
+      img: "Images/model/walk.jpeg",
+    },
+    {
+      img: "Images/model/minju2.jpeg",
     },
   ];
 

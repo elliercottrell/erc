@@ -73,3 +73,12 @@
     max-width: 400px;
   }
 }
+.update {
+  margin: 200px 10px;
+}
+h2 {
+  font-family: "andale mono";
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #434141;
+}
