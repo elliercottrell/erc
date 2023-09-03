@@ -4,19 +4,7 @@ import "./ProjectOne.css";
 function ProjectOne() {
   const galleryImages = [
     {
-      img: "Images/morocco/morocco_1.png",
-    },
-    {
-      img: "Images/morocco/morocco_2.png",
-    },
-    {
       img: "Images/morocco/morocco_3.png",
-    },
-    {
-      img: "Images/morocco/morocco_4.png",
-    },
-    {
-      img: "Images/morocco/morocco_5.png",
     },
     {
       img: "Images/morocco/morocco_6.png",
@@ -46,18 +34,6 @@ function ProjectOne() {
       img: "Images/morocco/morocco_14.png",
     },
     {
-      img: "Images/morocco/morocco_15.png",
-    },
-    {
-      img: "Images/morocco/morocco_16.png",
-    },
-    {
-      img: "Images/morocco/morocco_17.png",
-    },
-    {
-      img: "Images/morocco/morocco_18.png",
-    },
-    {
       img: "Images/morocco/morocco_19.png",
     },
     {
@@ -74,18 +50,6 @@ function ProjectOne() {
     },
     {
       img: "Images/morocco/morocco_24.png",
-    },
-    {
-      img: "Images/morocco/morocco_25.png",
-    },
-    {
-      img: "Images/morocco/morocco_26.png",
-    },
-    {
-      img: "Images/morocco/morocco_27.png",
-    },
-    {
-      img: "Images/morocco/morocco_28.png",
     },
   ];
 
