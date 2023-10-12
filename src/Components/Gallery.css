@@ -1,3 +1,7 @@
+main {
+  align-items: center;
+  justify-content: center;
+}
 .imageWrap {
   display: flex;
   flex-wrap: wrap;
