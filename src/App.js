@@ -5,7 +5,7 @@ import Footer from "./Components/Footer";
 import Contact from "./Components/Contact";
 import Form from "./Components/Form";
 import Popup from "./Components/Popup";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 function App() {
   const [buttonPopup, setButtonPopup] = useState(false);
