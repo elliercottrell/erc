@@ -23,9 +23,9 @@ function App() {
             <h2>Hiya, welcome to my playground</h2>
             <p>
               This is where I put all of my experimenting, my sketchbook if I
-              had one. So play around. Just hit an image to see its collection
-              and hit the ERC to come back from anywhere. Drop me a message if
-              you get bored..
+              had one. So play around. Just hit an image to see its collection,
+              or to make it bigger, and hit the ERC to come back from anywhere.
+              Drop me a message if you get bored..
             </p>
           </Popup>
         </div>
