@@ -52,11 +52,11 @@ a {
     line-height: 10px;
   }
   .heading {
-    width: 200%;
+    width: 300%;
   }
 
   .heading h2 {
-    margin-left: -180px;
+    margin-left: -80px;
   }
   .text {
     padding: 21px;
