@@ -31,7 +31,7 @@ function ContactForm() {
           console.log(error.text);
         }
       );
-    alert("THANK YOU, Message Sent");
+    // alert("THANK YOU, Message Sent");
   };
 
   return (
