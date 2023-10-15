@@ -8,7 +8,7 @@
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
-  padding: 10px 15px 10px 15px;
+  padding: 0px 15px 10px 15px;
 }
 
 .heading {
@@ -18,7 +18,8 @@
 
 h2 {
   text-align: center;
-  padding: 0px 0px 20px 0px;
+  line-height: 0;
+  padding: 0px 0px 40px 0px;
 }
 
 h2,
@@ -27,10 +28,10 @@ p {
 }
 
 p {
-  margin: 30px 20px;
+  margin: 10px 20px;
 }
 .text {
-  margin: 90px 0px;
+  margin: 50px 0px;
 }
 
 a {
