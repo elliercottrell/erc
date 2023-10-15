@@ -15,7 +15,7 @@ function ContactForm() {
   const form = useRef();
 
   const sendEmail = (e) => {
-    e.preventDefault();
+    // e.preventDefault();
     emailjs
       .sendForm(
         "service_kd193wf",
@@ -31,7 +31,7 @@ function ContactForm() {
           console.log(error.text);
         }
       );
-    // alert("THANK YOU, Message Sent");
+    alert("THANK YOU, Message Sent");
   };
 
   return (
