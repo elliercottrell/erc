@@ -43,9 +43,9 @@ main {
 @media (min-width: 900px) {
   .imageWrap {
     display: flex;
-    flex-wrap: wrap;
+    align-self: center;
     gap: 10px;
-    align-items: center;
+
     max-width: 500px;
     min-width: 1000px;
     margin-left: 13%;
