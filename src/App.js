@@ -24,8 +24,8 @@ function App() {
             <p>
               This is where I put all of my experimenting, my sketchbook if I
               had one. So play around. Just hit an image to see its collection,
-              or to make it bigger, and hit the ERC to come back from anywhere.
-              Drop me a message if you get bored..
+              or to make it bigger or smaller, and hit the ERC to come back from
+              anywhere. Drop me a message if you get bored..
             </p>
           </Popup>
         </div>
