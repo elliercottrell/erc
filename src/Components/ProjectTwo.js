@@ -16,6 +16,15 @@ function ProjectTwo() {
       img: "Images/model/minju1.jpeg",
     },
     {
+      img: "Images/model/tim2.jpeg",
+    },
+    {
+      img: "Images/model/miumiu.jpeg",
+    },
+    {
+      img: "Images/model/miu.jpeg",
+    },
+    {
       img: "Images/model/tim.jpeg",
     },
   ];

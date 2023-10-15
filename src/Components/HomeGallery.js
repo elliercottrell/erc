@@ -45,6 +45,10 @@ function HomeGallery() {
       img: "Images/model/minju1.jpeg",
       link: "pjt",
     },
+    {
+      img: "Images/model/miu.jpeg",
+      link: "pjt",
+    },
 
     {
       img: "Images/morocco/morocco_8.png",
@@ -52,6 +56,14 @@ function HomeGallery() {
     },
     {
       img: "Images/morocco/morocco_14.png",
+      link: "pjo",
+    },
+    {
+      img: "Images/model/miumiu.jpeg",
+      link: "pjt",
+    },
+    {
+      img: "Images/morocco/morocco_23.png",
       link: "pjo",
     },
 
@@ -89,6 +101,10 @@ function HomeGallery() {
     {
       img: "Images/morocco/morocco_12.png",
       link: "pjo",
+    },
+    {
+      img: "Images/model/tim2.jpeg",
+      link: "pjt",
     },
   ];
 
