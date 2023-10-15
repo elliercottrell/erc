@@ -43,12 +43,13 @@ a {
     padding-left: 10%;
     display: inline-flex;
     width: 45%;
-    padding-bottom: 0px;
+    padding-bottom: 117px;
     border-bottom: solid 3px #434141;
     border-right: solid 3px #434141;
   }
   h2 {
-    padding: 0px 0px 10px 0px;
+    padding: 7px 0px 7px 0px;
+    line-height: 10px;
   }
   .heading {
     width: 200%;
@@ -56,11 +57,10 @@ a {
 
   .heading h2 {
     margin-left: -180px;
-    padding: 0px 0px 10px 0px;
   }
   .text {
     padding: 21px;
-    margin: 10px;
+    margin: 20px;
   }
   .pleaseSubmit {
     padding: 5px 0px 5px 0px;
