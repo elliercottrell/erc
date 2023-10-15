@@ -73,7 +73,7 @@ main {
 
   .fullScreenImage img {
     margin-top: -40px;
-    max-width: 100%;
+    max-width: 90%;
     max-height: 100%;
   }
 }
