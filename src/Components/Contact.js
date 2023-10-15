@@ -13,7 +13,7 @@ function Contact() {
           <a href="mailto:erc.ink.drawing@gmail.com">
             <p>erc.ink.drawing@gmail.com</p>
           </a>
-          <p>07958 690 737</p>
+
           <a
             href="https://www.instagram.com/erc.ink/?hl=en"
             target="_blank"
