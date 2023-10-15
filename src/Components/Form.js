@@ -68,7 +68,7 @@ function ContactForm() {
           type="submit"
           className="pleaseSubmit"
           value="Send"
-          disabled={!validate()}
+          // disabled={!validate()}
         />
       </form>
     </div>
