@@ -72,8 +72,9 @@ main {
   }
 
   .fullScreenImage img {
-    max-width: 400px;
-    max-height: 90%;
+    margin-top: -40px;
+    max-width: 500px;
+    max-height: 100%;
   }
 }
 .update {
