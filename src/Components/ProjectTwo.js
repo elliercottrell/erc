@@ -4,10 +4,10 @@ import "./ProjectTwo.css";
 function ProjectTwo() {
   const galleryImagesTwo = [
     {
-      img: "Images/model/walk.jpeg",
+      img: "Images/model/tim2.jpeg",
     },
     {
-      img: "Images/model/moonlake.jpeg",
+      img: "Images/model/I bore myself telling these stories.jpeg",
     },
     {
       img: "Images/model/friday.jpeg",
@@ -16,7 +16,7 @@ function ProjectTwo() {
       img: "Images/model/minju1.jpeg",
     },
     {
-      img: "Images/model/tim2.jpeg",
+      img: "Images/model/Self portrait of someone else.jpeg",
     },
     {
       img: "Images/model/miumiu.jpeg",

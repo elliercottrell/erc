@@ -16,6 +16,10 @@ function HomeGallery() {
       link: "pjt",
     },
     {
+      img: "Images/amsterdam/breakfast with flowers.jpeg",
+      link: "pjth",
+    },
+    {
       img: "Images/morocco/morocco_7.png",
       link: "pjo",
     },
@@ -23,14 +27,13 @@ function HomeGallery() {
       img: "Images/morocco/morocco_20.png",
       link: "pjo",
     },
-
+    {
+      img: "Images/model/miu.jpeg",
+      link: "pjt",
+    },
     {
       img: "Images/morocco/morocco_6.png",
       link: "pjo",
-    },
-    {
-      img: "Images/model/walk.jpeg",
-      link: "pjt",
     },
     {
       img: "Images/morocco/morocco_3.png",
@@ -40,16 +43,10 @@ function HomeGallery() {
       img: "Images/morocco/morocco_9.png",
       link: "pjo",
     },
-
     {
       img: "Images/model/minju1.jpeg",
       link: "pjt",
     },
-    {
-      img: "Images/model/miu.jpeg",
-      link: "pjt",
-    },
-
     {
       img: "Images/morocco/morocco_8.png",
       link: "pjo",
@@ -59,17 +56,27 @@ function HomeGallery() {
       link: "pjo",
     },
     {
+      img: "Images/amsterdam/two girls on the metro from Sloterdijk.jpeg",
+      link: "pjth",
+    },
+    {
+      img: "Images/model/I bore myself telling these stories.jpeg",
+      link: "pjt",
+    },
+    {
       img: "Images/model/miumiu.jpeg",
       link: "pjt",
+    },
+    {
+      img: "Images/amsterdam/them drawing with a conversation and a plant.jpeg",
     },
     {
       img: "Images/morocco/morocco_23.png",
       link: "pjo",
     },
-
     {
-      img: "Images/model/moonlake.jpeg",
-      link: "pjt",
+      img: "Images/amsterdam/girl and a croton.jpeg",
+      link: "pjth",
     },
     {
       img: "Images/morocco/morocco_24.png",
@@ -83,7 +90,6 @@ function HomeGallery() {
       img: "Images/print/print_1.png",
       link: "pjfi",
     },
-
     {
       img: "Images/morocco/morocco_11.png",
       link: "pjo",
@@ -92,18 +98,19 @@ function HomeGallery() {
       img: "Images/print/print_2.png",
       link: "pjfi",
     },
-
     {
       img: "Images/morocco/morocco_13.png",
       link: "pjo",
     },
-
     {
-      img: "Images/morocco/morocco_12.png",
-      link: "pjo",
+      img: "Images/amsterdam/strangers on the tram in the rain.jpeg",
     },
     {
       img: "Images/model/tim2.jpeg",
+      link: "pjt",
+    },
+    {
+      img: "Images/model/Self portrait of someone else.jpeg",
       link: "pjt",
     },
   ];

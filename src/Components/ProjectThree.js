@@ -4,31 +4,28 @@ import "./ProjectTwo.css";
 function ProjectThree() {
   const galleryImages = [
     {
-      img: "Images/nature/nature_1.png",
+      img: "Images/amsterdam/girl and a croton.jpeg",
     },
     {
-      img: "Images/nature/nature_2.png",
+      img: "Images/amsterdam/two girls on the metro from Sloterdijk.jpeg",
     },
     {
-      img: "Images/nature/nature_4.png",
+      img: "Images/amsterdam/breakfast with flowers.jpeg",
     },
     {
-      img: "Images/nature/nature_6.png",
+      img: "Images/amsterdam/them drawing with a conversation and a plant.jpeg",
     },
     {
-      img: "Images/nature/nature_5.png",
+      img: "Images/amsterdam/Cake.jpeg",
     },
     {
-      img: "Images/nature/nature_8.png",
+      img: "Images/amsterdam/strangers on the tram in the rain.jpeg",
     },
     {
-      img: "Images/nature/nature_9.png",
+      img: "Images/amsterdam/Dollar Pizza Facetime.jpeg",
     },
     {
-      img: "Images/nature/nature_10.png",
-    },
-    {
-      img: "Images/nature/nature_7.png",
+      img: "Images/amsterdam/Kessens.jpeg",
     },
   ];
 
