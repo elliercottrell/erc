@@ -17,11 +17,11 @@ const Routing = () => {
       <div className="app">
         <Routes>
           <Route path="/" index element={<App />} />
-          <Route path="/pjo" element={<ProjectOneGallery />} />
-          <Route path="/pjt" element={<ProjectTwoGallery />} />
-          <Route path="/pjth" element={<ProjectThreeGallery />} />
+          <Route path="/morocco" element={<ProjectOneGallery />} />
+          <Route path="/work" element={<ProjectTwoGallery />} />
+          <Route path="/amsterdam" element={<ProjectThreeGallery />} />
           <Route path="/pjf" element={<ProjectFourGallery />} />
-          <Route path="/pjfi" element={<ProjectFiveGallery />} />
+          <Route path="/print" element={<ProjectFiveGallery />} />
         </Routes>
       </div>
     </Router>
