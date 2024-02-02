@@ -27,6 +27,18 @@ function ProjectTwo() {
     {
       img: "Images/model/tim.jpeg",
     },
+    {
+      img: "Images/model/untitled.png",
+    },
+    {
+      img: "Images/model/self.jpeg",
+    },
+    {
+      img: "Images/model/minju2.jpeg",
+    },
+    {
+      img: "Images/model/boy.jpeg",
+    },
   ];
 
   return (
