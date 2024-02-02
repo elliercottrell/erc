@@ -68,12 +68,24 @@ function HomeGallery() {
       link: "work",
     },
     {
+      img: "Images/model/self.jpeg",
+      link: "work",
+    },
+    {
       img: "Images/amsterdam/them drawing with a conversation and a plant.jpeg",
       link: "amsterdam",
     },
     {
+      img: "Images/model/minju2.jpeg",
+      link: "work",
+    },
+    {
       img: "Images/morocco/morocco_23.png",
       link: "morocco",
+    },
+    {
+      img: "Images/model/untitled.png",
+      link: "work",
     },
     {
       img: "Images/amsterdam/girl and a croton.jpeg",
@@ -98,6 +110,10 @@ function HomeGallery() {
     {
       img: "Images/print/print_2.png",
       link: "print",
+    },
+    {
+      img: "Images/model/boy.jpeg",
+      link: "work",
     },
     {
       img: "Images/morocco/morocco_13.png",
