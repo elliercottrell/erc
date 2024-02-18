@@ -4,63 +4,31 @@ import "./Gallery.css";
 function HomeGallery() {
   const homeGalleryImages = [
     {
-      img: "Images/model/tim.jpeg",
+      img: "Images/model/Self portrait of someone else.jpeg",
       link: "work",
     },
     {
-      img: "Images/morocco/morocco_19.png",
-      link: "morocco",
+      img: "Images/model/tim2.jpeg",
+      link: "work",
     },
     {
-      img: "Images/model/friday.jpeg",
-      link: "work",
+      img: "Images/model/Marble.jpg",
     },
     {
       img: "Images/amsterdam/breakfast with flowers.jpeg",
       link: "amsterdam",
     },
     {
-      img: "Images/morocco/morocco_7.png",
-      link: "morocco",
+      img: "Images/model/untitled.png",
+      link: "work",
     },
+
     {
-      img: "Images/morocco/morocco_20.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/model/miu.jpeg",
+      img: "Images/model/tim.jpeg",
       link: "work",
     },
     {
-      img: "Images/morocco/morocco_6.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/morocco/morocco_3.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/morocco/morocco_9.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/model/minju1.jpeg",
-      link: "work",
-    },
-    {
-      img: "Images/morocco/morocco_8.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/morocco/morocco_14.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/amsterdam/two girls on the metro from Sloterdijk.jpeg",
-      link: "amsterdam",
-    },
-    {
-      img: "Images/model/I bore myself telling these stories.jpeg",
+      img: "Images/model/boy.jpeg",
       link: "work",
     },
     {
@@ -68,23 +36,19 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/model/self.jpeg",
+      img: "Images/print/print_2.png",
+      link: "print",
+    },
+    {
+      img: "Images/model/minju1.jpeg",
       link: "work",
     },
     {
-      img: "Images/amsterdam/them drawing with a conversation and a plant.jpeg",
-      link: "amsterdam",
-    },
-    {
-      img: "Images/model/minju2.jpeg",
-      link: "work",
-    },
-    {
-      img: "Images/morocco/morocco_23.png",
+      img: "Images/morocco/morocco_11.png",
       link: "morocco",
     },
     {
-      img: "Images/model/untitled.png",
+      img: "Images/model/friday.jpeg",
       link: "work",
     },
     {
@@ -92,44 +56,16 @@ function HomeGallery() {
       link: "amsterdam",
     },
     {
-      img: "Images/morocco/morocco_24.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/morocco/morocco_21.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/print/print_1.png",
-      link: "print",
-    },
-    {
-      img: "Images/morocco/morocco_11.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/print/print_2.png",
-      link: "print",
-    },
-    {
-      img: "Images/model/boy.jpeg",
+      img: "Images/model/I bore myself telling these stories.jpeg",
       link: "work",
     },
     {
-      img: "Images/morocco/morocco_13.png",
-      link: "morocco",
-    },
-    {
-      img: "Images/amsterdam/strangers on the tram in the rain.jpeg",
+      img: "Images/amsterdam/them drawing with a conversation and a plant.jpeg",
       link: "amsterdam",
     },
     {
-      img: "Images/model/tim2.jpeg",
-      link: "work",
-    },
-    {
-      img: "Images/model/Self portrait of someone else.jpeg",
-      link: "work",
+      img: "Images/morocco/morocco_3.png",
+      link: "morocco",
     },
   ];
 

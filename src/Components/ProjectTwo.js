@@ -7,10 +7,10 @@ function ProjectTwo() {
       img: "Images/model/tim2.jpeg",
     },
     {
-      img: "Images/model/untitled.png",
+      img: "Images/model/Marble.jpg",
     },
     {
-      img: "Images/model/boy.jpeg",
+      img: "Images/model/untitled.png",
     },
     {
       img: "Images/model/Self portrait of someone else.jpeg",
@@ -38,7 +38,7 @@ function ProjectTwo() {
       img: "Images/model/miu.jpeg",
     },
     {
-      img: "Images/model/minju2.jpeg",
+      img: "Images/model/boy.jpeg",
     },
   ];
 
