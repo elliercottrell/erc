@@ -1,5 +1,5 @@
 .headerWrap {
-  border-bottom: solid 3px #434141;
+  border-bottom: solid 2px #434141;
   padding: 0px;
   position: fixed;
   width: 100vw;
@@ -19,7 +19,7 @@ h1 {
   margin: 10px;
 }
 
-@media (min-width: 900px) {
+/* @media (min-width: 900px) {
   .headerWrap {
     border: none;
     padding: 0px;
@@ -46,3 +46,5 @@ h1 {
     z-index: 0;
   }
 }
+
+*/

@@ -1,5 +1,5 @@
 .messageHeading {
-  border-top: solid 3px #434141;
+  border-top: solid 2px #434141;
   color: #434141;
   font-family: "Andale Mono";
   font-weight: lightest;
@@ -8,13 +8,13 @@
 }
 
 .contactForm {
-  border-bottom: solid 3px #434141;
+  border-bottom: solid 2px #434141;
   padding: 0px 0px 15px 0px;
 }
 .name,
 .yourEmail,
 .yourMessage {
-  border-top: solid 3px #434141;
+  border-top: solid 2px #434141;
   border-radius: 0px;
   border-bottom: none;
   border-right: none;
@@ -29,7 +29,7 @@
   text-indent: 20px;
 }
 .yourMessage {
-  border-bottom: solid 3px #434141;
+  border-bottom: solid 2px #434141;
   margin-bottom: 15px;
 }
 
