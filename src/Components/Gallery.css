@@ -47,7 +47,6 @@ main {
     gap: 10px;
     max-width: 500px;
     min-width: 1000px;
-    margin-left: 20%;
   }
 
   .imageWrap .single {
@@ -60,20 +59,8 @@ main {
     max-width: 100%;
   }
 
-  .largeImageWrap {
-    overflow: hidden;
-    background-color: #f6f5f0;
-    display: flex;
-    justify-content: center;
-    margin-left: 7%;
-    margin-top: 0px;
-    padding-top: 100px;
-    z-index: 9;
-  }
-
   .fullScreenImage img {
     margin-top: -40px;
-
     max-height: 100%;
   }
 }
@@ -81,8 +68,4 @@ main {
   margin: 200px 10px;
 }
 h2 {
-  font-family: "andale mono";
-  text-transform: uppercase;
-  font-size: 30px;
-  color: #434141;
 }
