@@ -40,9 +40,8 @@ a {
 
 @media (min-width: 900px) {
   .contactWrap {
-    padding-left: 10%;
     display: inline-flex;
-    width: 45%;
+    width: 50%;
     padding-bottom: 117px;
     border-bottom: solid 2px #434141;
     border-right: solid 2px #434141;
@@ -51,16 +50,14 @@ a {
     padding: 7px 0px 7px 0px;
     line-height: 10px;
   }
-  .heading {
-    width: 300%;
-  }
 
-  .heading h2 {
-    margin-left: -250px;
+  .contactText {
+    padding-left: 0px;
+    width: 100%;
   }
   .text {
-    padding: 21px;
-    margin: 20px;
+    padding: 10px;
+    margin: 16.8px;
   }
   .pleaseSubmit {
     padding: 5px 0px 5px 0px;
