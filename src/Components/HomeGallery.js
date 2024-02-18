@@ -13,6 +13,7 @@ function HomeGallery() {
     },
     {
       img: "Images/model/Marble.jpg",
+      link: "work",
     },
     {
       img: "Images/amsterdam/breakfast with flowers.jpeg",
