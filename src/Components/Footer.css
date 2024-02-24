@@ -9,7 +9,8 @@
   font-size: 50px;
   letter-spacing: 7px;
   text-align: center;
-  padding: 30px;
+  padding-top: 3px;
+  padding-bottom: 10px;
 }
 
 .ercFooterLink {
@@ -22,8 +23,7 @@ h2 {
 
 @media (min-width: 900px) {
   .footerWrap {
-    width: 90%;
-    margin-left: 10%;
+    width: 100%;
   }
 
   h2 {
