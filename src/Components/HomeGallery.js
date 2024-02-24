@@ -8,7 +8,7 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/model/tim2.jpeg",
+      img: "Images/model/timsofa.jpeg",
       link: "work",
     },
     {
@@ -25,15 +25,15 @@ function HomeGallery() {
     },
 
     {
-      img: "Images/model/tim.jpeg",
+      img: "Images/model/timpink.jpeg",
       link: "work",
     },
     {
-      img: "Images/model/boy.jpeg",
+      img: "Images/model/theboy.jpeg",
       link: "work",
     },
     {
-      img: "Images/model/miumiu.jpeg",
+      img: "Images/model/miumiutwo.jpeg",
       link: "work",
     },
     {
@@ -41,7 +41,7 @@ function HomeGallery() {
       link: "print",
     },
     {
-      img: "Images/model/minju1.jpeg",
+      img: "Images/model/girlonherside.jpeg",
       link: "work",
     },
     {
@@ -49,7 +49,7 @@ function HomeGallery() {
       link: "morocco",
     },
     {
-      img: "Images/model/friday.jpeg",
+      img: "Images/model/onfriday.jpeg",
       link: "work",
     },
     {
@@ -57,7 +57,7 @@ function HomeGallery() {
       link: "amsterdam",
     },
     {
-      img: "Images/model/I bore myself telling these stories.jpeg",
+      img: "Images/model/onthegrass.jpeg",
       link: "work",
     },
     {

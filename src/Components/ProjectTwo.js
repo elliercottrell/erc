@@ -4,7 +4,7 @@ import "./ProjectTwo.css";
 function ProjectTwo() {
   const galleryImagesTwo = [
     {
-      img: "Images/model/tim2.jpeg",
+      img: "Images/model/timsofa.jpeg",
     },
     {
       img: "Images/model/Marble.jpg",
@@ -16,29 +16,29 @@ function ProjectTwo() {
       img: "Images/model/Self portrait of someone else.jpeg",
     },
     {
-      img: "Images/model/miumiu.jpeg",
+      img: "Images/model/miumiutwo.jpeg",
     },
     {
-      img: "Images/model/minju1.jpeg",
+      img: "Images/model/girlonherside.jpeg",
     },
     {
-      img: "Images/model/friday.jpeg",
+      img: "Images/model/onfriday.jpeg",
     },
 
     {
-      img: "Images/model/I bore myself telling these stories.jpeg",
+      img: "Images/model/onthegrass.jpeg",
     },
     {
       img: "Images/model/self.jpeg",
     },
     {
-      img: "Images/model/tim.jpeg",
+      img: "Images/model/timpink.jpeg",
     },
     {
-      img: "Images/model/miu.jpeg",
+      img: "Images/model/miumiuone.jpeg",
     },
     {
-      img: "Images/model/boy.jpeg",
+      img: "Images/model/theboy.jpeg",
     },
   ];
 
