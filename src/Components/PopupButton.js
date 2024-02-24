@@ -2,7 +2,7 @@ import React from "react";
 import "./Popup.css";
 import Popup from "./Popup";
 import { useState } from "react";
-import { Location, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import PopupTextHome from "./PopupTextHome";
 import PopupTextOne from "./PopupTextOne";
 import PopupTextTwo from "./PopupTextTwo";
