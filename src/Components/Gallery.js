@@ -20,6 +20,7 @@ const Gallery = ({ galleryImages }) => {
         <div className="largeImageWrap">
           <div className="fullScreenImage" onClick={handleCloseModal}>
             <img src={galleryImages[imageNumber].img} alt="" />
+            <p className="titles"> {galleryImages[imageNumber].title} </p>
           </div>
         </div>
       )}

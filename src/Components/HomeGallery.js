@@ -57,7 +57,7 @@ function HomeGallery() {
       link: "amsterdam",
     },
     {
-      img: "Images/model/onthegrass.jpeg",
+      img: "Images/model/intothesun.jpeg",
       link: "work",
     },
     {
