@@ -8,7 +8,7 @@ function Header() {
       <Link to="/" className="ercTitleLink">
         <h1 className="ercTitle">ERC</h1>
       </Link>
-      <PopupButton></PopupButton>
+      <PopupButton />
     </div>
   );
 }

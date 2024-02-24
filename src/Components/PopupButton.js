@@ -2,26 +2,77 @@ import React from "react";
 import "./Popup.css";
 import Popup from "./Popup";
 import { useState } from "react";
+import { Location, useLocation } from "react-router-dom";
+import PopupTextHome from "./PopupTextHome";
+import PopupTextOne from "./PopupTextOne";
+import PopupTextTwo from "./PopupTextTwo";
+import PopupTextThree from "./PopupTextThree";
+import PopupTextFour from "./PopupTextFour";
 
 function PopupButton() {
   const [buttonPopup, setButtonPopup] = useState(false);
-  return (
-    <div className="myPopup">
-      <button className="open-btn" onClick={() => setButtonPopup(true)}>
-        Help
-      </button>
+  const location = useLocation();
+  const myLocation = location.pathname;
 
-      <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
-        <h2>Hiya, welcome to my playground</h2>
-        <p>
-          This is where I put all of my exploring, so play around. Just hit an
-          image to see its collection, or to make it bigger or smaller, and hit
-          the ERC to come back from anywhere. Drop me a message if you like
-          anything..
-        </p>
-      </Popup>
-    </div>
-  );
+  if (myLocation == "/morocco") {
+    return (
+      <div className="myPopup">
+        <button className="open-btn" onClick={() => setButtonPopup(true)}>
+          Morocco
+        </button>
+        <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+          <PopupTextOne />
+        </Popup>
+      </div>
+    );
+  }
+  if (myLocation == "/work") {
+    return (
+      <div className="myPopup">
+        <button className="open-btn" onClick={() => setButtonPopup(true)}>
+          Works
+        </button>
+        <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+          <PopupTextTwo />
+        </Popup>
+      </div>
+    );
+  }
+  if (myLocation == "/amsterdam") {
+    return (
+      <div className="myPopup">
+        <button className="open-btn" onClick={() => setButtonPopup(true)}>
+          Amsterdam
+        </button>
+        <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+          <PopupTextThree />
+        </Popup>
+      </div>
+    );
+  }
+  if (myLocation == "/print") {
+    return (
+      <div className="myPopup">
+        <button className="open-btn" onClick={() => setButtonPopup(true)}>
+          Print
+        </button>
+        <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+          <PopupTextFour />
+        </Popup>
+      </div>
+    );
+  } else {
+    return (
+      <div className="myPopup">
+        <button className="open-btn" onClick={() => setButtonPopup(true)}>
+          About
+        </button>
+        <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+          <PopupTextHome />
+        </Popup>
+      </div>
+    );
+  }
 }
 
 export default PopupButton;
