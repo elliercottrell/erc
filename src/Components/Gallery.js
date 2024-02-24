@@ -33,7 +33,7 @@ const Gallery = ({ galleryImages }) => {
                 key={index}
                 onClick={() => handleOpenModal(index)}
               >
-                <img src={image.img} alt="" />
+                <img src={image.img} alt="Tim" />
               </div>
             );
           })}

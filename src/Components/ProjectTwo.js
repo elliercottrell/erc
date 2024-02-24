@@ -5,6 +5,7 @@ function ProjectTwo() {
   const galleryImagesTwo = [
     {
       img: "Images/model/timsofa.jpeg",
+      title: "Tim",
     },
     {
       img: "Images/model/Marble.jpg",
