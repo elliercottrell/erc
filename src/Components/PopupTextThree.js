@@ -9,7 +9,7 @@ function PopupTextThree() {
         A collection of exploration snapshots from Amsterdam Autumn 2023.
         <br />
         <br />
-        All 3.06"x3.12" on 250gsm hot pressed paper
+        All oil pastel on on 3.06"x3.12" 250gsm hot pressed paper
       </p>
     </div>
   );

@@ -10,7 +10,7 @@ function PopupTextTwo() {
         Exploring humans.
         <br />
         <br />
-        Varying sizes, on Fabriano 120gsm paper
+        Oil pastel on varying sizes Fabriano 120gsm paper
       </p>
     </div>
   );

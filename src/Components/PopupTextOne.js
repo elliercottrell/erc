@@ -10,7 +10,7 @@ function PopupTextOne() {
         2023.
         <br />
         <br />
-        All 3.06"x3.12" on 250gsm hot pressed paper, with white base.
+        All oil pastel on 3.06"x3.12" 250gsm hot pressed paper, with white base.
       </p>
     </div>
   );
