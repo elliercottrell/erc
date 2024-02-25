@@ -23,7 +23,7 @@ function ProjectTwo() {
     },
     {
       img: "Images/model/timsofa.jpeg",
-      title: "Tim, swallowed by the sofa",
+      title: "A portrait of Tim, swallowed by the sofa",
     },
     {
       img: "Images/model/onfriday.jpeg",
