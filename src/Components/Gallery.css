@@ -27,21 +27,23 @@ main {
   overflow: hidden;
   top: 0;
   bottom: 0;
-  margin-top: 81px;
   background-color: #f6f5f0;
   display: flex;
   justify-content: center;
-  width: 100vw;
+  margin-top: 80px;
+  padding: 40px 0px;
+  z-index: 9;
 }
 
 .fullScreenImage img {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
 }
 
 .titles {
   text-align: center;
-  font-size: 10px;
+  font-size: 8px;
 }
 @media (min-width: 900px) {
   .imageWrap {

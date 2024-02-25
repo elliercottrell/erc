@@ -6,8 +6,8 @@ function PopupTextTwo() {
     <div className="myPopup">
       <h2>Project: Ongoing Works</h2>
       <p>
-        This current collection is of works made late 2023 to current 2024.
-        Exploring humans.
+        An ongoing collection of works made late 2023 to current. Exploring
+        humans.
         <br />
         <br />
         Oil pastel on varying sizes Fabriano 120gsm paper
