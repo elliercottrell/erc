@@ -19,9 +19,6 @@ function ProjectOne() {
       img: "Images/morocco/morocco_9.png",
     },
     {
-      img: "Images/morocco/morocco_10.png",
-    },
-    {
       img: "Images/morocco/morocco_11.png",
     },
     {
@@ -37,16 +34,7 @@ function ProjectOne() {
       img: "Images/morocco/morocco_19.png",
     },
     {
-      img: "Images/morocco/morocco_20.png",
-    },
-    {
       img: "Images/morocco/morocco_21.png",
-    },
-    {
-      img: "Images/morocco/morocco_22.png",
-    },
-    {
-      img: "Images/morocco/morocco_23.png",
     },
     {
       img: "Images/morocco/morocco_24.png",
