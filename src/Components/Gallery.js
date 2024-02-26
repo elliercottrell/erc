@@ -19,8 +19,7 @@ const Gallery = ({ galleryImages }) => {
       {openModal && (
         <div className="largeImageWrap">
           <div className="fullScreenImage" onClick={handleCloseModal}>
-            <img src={galleryImages[imageNumber].img} alt="" />
-            <p className="titles"> {galleryImages[imageNumber].title} </p>
+            <img src={galleryImages[imageNumber].img} alt="A portrait of Tim" />
           </div>
         </div>
       )}
