@@ -41,7 +41,7 @@ function HomeGallery() {
       link: "print",
     },
     {
-      img: "Images/model/girlonherside.jpeg",
+      img: "Images/model/howtoeatthesun.jpg",
       link: "work",
     },
     {
