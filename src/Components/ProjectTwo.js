@@ -10,11 +10,10 @@ function ProjectTwo() {
       img: "Images/model/Marble.jpg",
     },
     {
-      img: "Images/model/timsofa.jpeg",
-      title: "*A portrait of Tim, surrounded by the sofa*",
+      img: "Images/model/how to eat the sun.jpeg",
     },
     {
-      img: "Images/model/howtoeatthesun.jpg",
+      img: "Images/model/RUD.jpeg",
     },
     {
       img: "Images/model/untitled.png",
@@ -29,9 +28,9 @@ function ProjectTwo() {
       img: "Images/model/timpink.jpeg",
     },
     {
-      img: "Images/model/theboy.jpeg",
+      img: "Images/model/timsofa.jpeg",
+      title: "*A portrait of Tim, surrounded by the sofa*",
     },
-
     {
       img: "Images/model/miumiutwo.jpeg",
     },

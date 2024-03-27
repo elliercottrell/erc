@@ -29,7 +29,7 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/model/theboy.jpeg",
+      img: "Images/model/RUD.jpeg",
       link: "work",
     },
     {
@@ -41,7 +41,7 @@ function HomeGallery() {
       link: "print",
     },
     {
-      img: "Images/model/howtoeatthesun.jpg",
+      img: "Images/model/how to eat the sun.jpeg",
       link: "work",
     },
     {
