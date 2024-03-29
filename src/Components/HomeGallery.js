@@ -29,7 +29,7 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/model/RUD.jpeg",
+      img: "Images/model/onfriday.jpeg",
       link: "work",
     },
     {
@@ -45,13 +45,14 @@ function HomeGallery() {
       link: "work",
     },
     {
+      img: "Images/model/RUD.jpeg",
+      link: "work",
+    },
+    {
       img: "Images/morocco/morocco_11.png",
       link: "morocco",
     },
-    {
-      img: "Images/model/onfriday.jpeg",
-      link: "work",
-    },
+
     {
       img: "Images/amsterdam/girl and a croton.jpeg",
       link: "amsterdam",
