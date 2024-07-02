@@ -4,32 +4,11 @@ import "./Gallery.css";
 function HomeGallery() {
   const homeGalleryImages = [
     {
-      img: "Images/model/Self portrait of someone else.jpeg",
+      img: "Images/model/At Once Two Things.jpg",
       link: "work",
     },
     {
-      img: "Images/model/timsofa.jpeg",
-      link: "work",
-    },
-    {
-      img: "Images/model/Marble.jpg",
-      link: "work",
-    },
-    {
-      img: "Images/amsterdam/breakfast with flowers.jpeg",
-      link: "amsterdam",
-    },
-    {
-      img: "Images/model/untitled.png",
-      link: "work",
-    },
-
-    {
-      img: "Images/model/timpink.jpeg",
-      link: "work",
-    },
-    {
-      img: "Images/model/onfriday.jpeg",
+      img: "Images/model/IMG_7542.jpg",
       link: "work",
     },
     {
@@ -37,11 +16,11 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/print/print_2.png",
-      link: "print",
+      img: "Images/model/miumiuone.jpeg",
+      link: "work",
     },
     {
-      img: "Images/model/how to eat the sun.jpeg",
+      img: "Images/model/Self portrait of someone else.jpeg",
       link: "work",
     },
     {
@@ -49,25 +28,43 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/morocco/morocco_11.png",
-      link: "morocco",
+      img: "Images/model/how to eat the sun.jpeg",
+      link: "work",
     },
-
     {
-      img: "Images/amsterdam/girl and a croton.jpeg",
-      link: "amsterdam",
+      img: "Images/model/timsofa.jpeg",
+      link: "work",
+    },
+    {
+      img: "Images/model/untitled.png",
+      link: "work",
+    },
+    {
+      img: "Images/model/intothesuntwo.jpg",
     },
     {
       img: "Images/model/intothesun.jpeg",
       link: "work",
     },
     {
-      img: "Images/amsterdam/them drawing with a conversation and a plant.jpeg",
-      link: "amsterdam",
+      img: "Images/model/onthegrass.jpeg",
+      link: "work",
     },
     {
-      img: "Images/morocco/morocco_3.png",
-      link: "morocco",
+      img: "Images/model/onfriday.jpeg",
+      link: "work",
+    },
+    {
+      img: "Images/model/timpink.jpeg",
+      link: "work",
+    },
+    {
+      img: "Images/model/Marble.jpg",
+      link: "work",
+    },
+    {
+      img: "Images/model/theboy.jpeg",
+      link: "work",
     },
   ];
 

@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./Components/Header.js";
-import HomeGallery from "./Components/HomeGallery";
+import ProjectTwo from "./Components/ProjectTwo.js";
 import Footer from "./Components/Footer";
 import Contact from "./Components/Contact";
 import Form from "./Components/Form";
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <div className="galleryWrap">
-        <HomeGallery />
+        <ProjectTwo />
       </div>
       <Contact />
       <Form />
