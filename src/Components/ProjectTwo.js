@@ -13,7 +13,11 @@ function ProjectTwo() {
       img: "Images/model/miumiutwo.jpeg",
     },
     {
-      img: "Images/model/miumiuone.jpeg",
+      img: "Images/model/TimMauricio.jpg",
+    },
+    {
+      img: "Images/model/timsofa.jpeg",
+      title: "A portrait of Tim, surrounded by the sofa",
     },
     {
       img: "Images/model/Self portrait of someone else.jpeg",
@@ -25,8 +29,7 @@ function ProjectTwo() {
       img: "Images/model/how to eat the sun.jpeg",
     },
     {
-      img: "Images/model/timsofa.jpeg",
-      title: "A portrait of Tim, surrounded by the sofa",
+      img: "Images/model/intothesun.jpeg",
     },
     {
       img: "Images/model/untitled.png",
@@ -35,22 +38,19 @@ function ProjectTwo() {
       img: "Images/model/intothesuntwo.jpg",
     },
     {
-      img: "Images/model/intothesun.jpeg",
-    },
-    {
-      img: "Images/model/onthegrass.jpeg",
-    },
-    {
-      img: "Images/model/onfriday.jpeg",
+      img: "Images/model/Marble.jpg",
     },
     {
       img: "Images/model/timpink.jpeg",
     },
     {
-      img: "Images/model/Marble.jpg",
+      img: "Images/model/onthegrass.jpeg",
     },
     {
-      img: "Images/model/theboy.jpeg",
+      img: "Images/model/miumiuone.jpeg",
+    },
+    {
+      img: "Images/model/onfriday.jpeg",
     },
   ];
 
