@@ -7,7 +7,7 @@ function ProjectTwo() {
       img: "Images/model/At Once Two Things.jpg",
     },
     {
-      img: "Images/model/IMG_7542.jpg",
+      img: "Images/model/FullSizeRender 6.jpg",
     },
     {
       img: "Images/model/miumiutwo.jpeg",
