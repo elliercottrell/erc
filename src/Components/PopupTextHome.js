@@ -4,12 +4,15 @@ import "./Popup.css";
 function PopupTextHome() {
   return (
     <div className="myPopup">
-      <h2>Hiya, welcome to my playground</h2>
+      <h2>Hiya</h2>
       <p>
-        This is where I put all of my exploring, so play around. Just hit an
-        image to see its collection, or to make it bigger or smaller, and hit
-        the ERC to come back from anywhere. Drop me a message if you like
-        anything..
+        An ongoing collection of works made since late 2023. Exploring humans
+        <br />
+        <br />
+        Tap an image to make it bigger or smaller
+        <br />
+        <br />
+        Oil pastel on varying sizes Fabriano 120gsm paper
       </p>
     </div>
   );

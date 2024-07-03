@@ -41,10 +41,11 @@ main {
   margin: 0 auto;
 }
 
-.titles {
+.titles p {
   text-align: center;
-  font-size: 8px;
+  font-size: 10px;
 }
+
 @media (min-width: 900px) {
   .imageWrap {
     display: flex;
