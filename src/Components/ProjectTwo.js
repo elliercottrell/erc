@@ -12,7 +12,7 @@ function ProjectTwo() {
       title: "Wilding",
     },
     {
-      img: "Images/model/miumiutwo.jpeg",
+      img: "Images/model/untitled.png",
       title: "Untitled",
     },
     {
@@ -40,10 +40,6 @@ function ProjectTwo() {
       title: "Into The Sun I",
     },
     {
-      img: "Images/model/untitled.png",
-      title: "Untitled",
-    },
-    {
       img: "Images/model/intothesuntwo.jpg",
       title: "Into The Sun II",
     },
@@ -56,16 +52,20 @@ function ProjectTwo() {
       title: "Pink, Tim",
     },
     {
+      img: "Images/model/miumiutwo.jpeg",
+      title: "Untitled",
+    },
+    {
       img: "Images/model/onthegrass.jpeg",
       title: "On The Grass",
     },
     {
-      img: "Images/model/miumiuone.jpeg",
-      title: "Untitled",
-    },
-    {
       img: "Images/model/onfriday.jpeg",
       title: "On Friday",
+    },
+    {
+      img: "Images/model/girlonherside.jpeg",
+      title: "On The Side",
     },
   ];
 
