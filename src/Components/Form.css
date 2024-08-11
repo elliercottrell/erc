@@ -1,25 +1,25 @@
 .messageHeading {
-  border-top: solid 2px #434141;
+  border-top: solid 1.5px #434141;
   color: #434141;
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
-  background-color: #f6f5f0;
+  background-color: #f1efee;
 }
 
 .contactForm {
-  border-bottom: solid 2px #434141;
+  border-bottom: solid 1.5px #434141;
   padding: 0px 0px 15px 0px;
 }
 .name,
 .yourEmail,
 .yourMessage {
-  border-top: solid 2px #434141;
+  border-top: solid 1.5px #434141;
   border-radius: 0px;
   border-bottom: none;
   border-right: none;
   border-left: none;
-  background-color: #f6f5f0;
+  background-color: #f1efee;
   width: 100vw;
   font-size: 20px;
   font-family: "Andale Mono";
@@ -29,7 +29,7 @@
   text-indent: 20px;
 }
 .yourMessage {
-  border-bottom: solid 2px #434141;
+  border-bottom: solid 1.5px #434141;
   margin-bottom: 15px;
 }
 
@@ -38,7 +38,7 @@
   margin-left: 15px;
   border: none;
   color: #434141;
-  background-color: #f6f5f0;
+  background-color: #f1efee;
   width: 100vw;
   font-size: 20px;
   font-family: "Andale Mono";
@@ -62,12 +62,12 @@ input::placeholder {
     margin-top: 50px;
     display: inline;
     position: absolute;
-    background-color: #efeadf;
+    background-color: #f1efee;
   }
 
   .messageHeading {
     margin-left: 0%;
-    background-color: #efeadf;
+    background-color: #f1efee;
   }
 
   .name,
@@ -76,7 +76,7 @@ input::placeholder {
     margin-left: 0%;
     text-indent: 10%;
     width: 100%;
-    background-color: #efeadf;
+    background-color: #f1efee;
   }
 
   .pleaseSubmit {

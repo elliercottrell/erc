@@ -14,8 +14,8 @@
   padding: 30px;
   width: 100%;
   max-width: 640px;
-  background-color: rgba(246, 245, 240, 0.8);
-  border: solid 2px #434141;
+  background-color: rgba(241, 239, 238, 0.8);
+  border: solid 1.5px #434141;
 }
 
 .popup-inner .close-btn {
@@ -26,8 +26,8 @@
 
 .close-btn {
   cursor: pointer;
-  background-color: #f6f5f0;
-  border: solid 2px #434141;
+  background-color: rgb(241, 239, 238);
+  border: solid 1.5px #434141;
   padding: 3px 11px;
   font-family: "Andale Mono";
   font-weight: bolder;
@@ -40,8 +40,8 @@
   top: 2.5%;
   right: 5%;
   cursor: pointer;
-  background-color: #f6f5f0;
-  border: solid 2px #434141;
+  background-color: #f1efee;
+  border: solid 1.5px #434141;
   padding: 13px 30px;
   font-family: "Andale Mono";
   font-weight: lighter;
@@ -51,7 +51,7 @@
 
 .close-btn:hover,
 .open-btn:hover {
-  background-color: #e6c1ad;
+  background-color: #ffd5cf;
   transition: background-color 0.5s ease-in-out;
 }
 

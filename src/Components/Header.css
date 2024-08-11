@@ -1,9 +1,9 @@
 .headerWrap {
-  border-bottom: solid 2px #434141;
+  border-bottom: solid 1.5px #434141;
   padding: 0px;
   position: fixed;
   width: 100%;
-  background-color: #f6f5f0;
+  background-color: #f1efee;
 }
 
 .ercTitleLink {
