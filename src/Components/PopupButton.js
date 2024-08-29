@@ -18,7 +18,7 @@ function PopupButton() {
     return (
       <div className="myPopup">
         <button className="open-btn" onClick={() => setButtonPopup(true)}>
-          About Writing
+          Writing
         </button>
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <PopupTextOne />
@@ -65,7 +65,7 @@ function PopupButton() {
     return (
       <div className="myPopup">
         <button className="open-btn" onClick={() => setButtonPopup(true)}>
-          About Drawing
+          Drawing
         </button>
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <PopupTextHome />
