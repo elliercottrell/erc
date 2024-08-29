@@ -1,6 +1,5 @@
 import Gallery from "./Gallery";
 import "./ProjectTwo.css";
-import { Link } from "react-router-dom";
 
 function ProjectTwo() {
   const galleryImagesTwo = [
