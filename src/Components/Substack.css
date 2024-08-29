@@ -1,0 +1,28 @@
+.substackWrap {
+  border-top: solid 1.5px #434141;
+  background-color: #f1efee;
+  margin-bottom: -52px;
+}
+
+.substackHeading {
+  margin: 0px -15px;
+}
+
+h2 {
+  text-align: center;
+  padding: 10px 0px 20px 0px;
+}
+
+@media (min-width: 900px) {
+  .contactWrap {
+    display: inline-flex;
+    width: 50%;
+    padding-bottom: 117px;
+    border-bottom: solid 1.5px #434141;
+    border-right: solid 1.5px #434141;
+  }
+  h2 {
+    padding: 20px, 5px;
+    line-height: 20px;
+  }
+}

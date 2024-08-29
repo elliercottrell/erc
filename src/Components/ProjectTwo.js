@@ -58,9 +58,6 @@ function ProjectTwo() {
   return (
     <div className="ProjTwo">
       <Gallery galleryImages={galleryImagesTwo} />
-      <Link to="/substack" className="linkSubstack">
-        <h2 className="subTitle">Substack</h2>
-      </Link>
     </div>
   );
 }

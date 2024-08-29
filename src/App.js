@@ -4,6 +4,7 @@ import ProjectTwo from "./Components/ProjectTwo.js";
 import Footer from "./Components/Footer";
 import Contact from "./Components/Contact";
 import Form from "./Components/Form";
+import Substack from "./Components/Substack.js";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div className="galleryWrap">
         <ProjectTwo />
       </div>
+      <Substack />
       <Contact />
       <Form />
       <Footer />
