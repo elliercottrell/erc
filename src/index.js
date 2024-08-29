@@ -17,7 +17,7 @@ const Routing = () => {
       <div className="app">
         <Routes>
           <Route path="/" index element={<App />} />
-          <Route path="/morocco" element={<ProjectOneGallery />} />
+          <Route path="/substack" element={<ProjectOneGallery />} />
           <Route path="/work" element={<ProjectTwoGallery />} />
           <Route path="/amsterdam" element={<ProjectThreeGallery />} />
           <Route path="/pjf" element={<ProjectFourGallery />} />

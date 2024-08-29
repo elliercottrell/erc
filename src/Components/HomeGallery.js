@@ -59,7 +59,7 @@ function HomeGallery() {
       link: "work",
     },
     {
-      img: "Images/model/Marble.jpg",
+      img: "Images/model/living inside.jpeg",
       link: "work",
     },
     {

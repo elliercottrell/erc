@@ -14,11 +14,11 @@ function PopupButton() {
   const location = useLocation();
   const myLocation = location.pathname;
 
-  if (myLocation === "/morocco") {
+  if (myLocation === "/substack") {
     return (
       <div className="myPopup">
         <button className="open-btn" onClick={() => setButtonPopup(true)}>
-          Morocco
+          About Writing
         </button>
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <PopupTextOne />
@@ -65,7 +65,7 @@ function PopupButton() {
     return (
       <div className="myPopup">
         <button className="open-btn" onClick={() => setButtonPopup(true)}>
-          About
+          About Drawing
         </button>
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <PopupTextHome />

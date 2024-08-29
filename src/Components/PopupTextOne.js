@@ -4,13 +4,12 @@ import "./Popup.css";
 function PopupTextOne() {
   return (
     <div className="myPopup">
-      <h2>Project: Morocco</h2>
+      <h2>Substack</h2>
       <p>
-        A collection of exploration snapshots from a visit to Morocco in Spring
-        2023.
+        Writing is a complement to my drawing, to explore the world around me,
+        paddle in what inspires me and think critically about creativity.
         <br />
         <br />
-        All oil pastel on 3.06"x3.12" 250gsm hot pressed paper, with white base.
       </p>
     </div>
   );

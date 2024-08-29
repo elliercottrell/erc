@@ -1,5 +1,6 @@
 import Gallery from "./Gallery";
 import "./ProjectTwo.css";
+import { Link } from "react-router-dom";
 
 function ProjectTwo() {
   const galleryImagesTwo = [
@@ -16,16 +17,8 @@ function ProjectTwo() {
       title: "Untitled",
     },
     {
-      img: "Images/model/TimMauricio.jpg",
-      title: "Tim/Mauricio",
-    },
-    {
-      img: "Images/model/timsofa.jpeg",
-      title: "A portrait of Tim, surrounded by the sofa",
-    },
-    {
-      img: "Images/model/Self portrait of someone else.jpeg",
-      title: "Self Portrait of Someone Else",
+      img: "Images/model/miumiutwo.jpeg",
+      title: "Amongst",
     },
     {
       img: "Images/model/RUD.jpeg",
@@ -36,6 +29,14 @@ function ProjectTwo() {
       title: "How To Eat The Sun",
     },
     {
+      img: "Images/model/living inside.jpeg",
+      title: "Living inside",
+    },
+    {
+      img: "Images/model/Self portrait of someone else.jpeg",
+      title: "Self Portrait of Someone Else",
+    },
+    {
       img: "Images/model/intothesun.jpeg",
       title: "Into The Sun I",
     },
@@ -43,35 +44,23 @@ function ProjectTwo() {
       img: "Images/model/intothesuntwo.jpg",
       title: "Into The Sun II",
     },
+
     {
-      img: "Images/model/Marble.jpg",
-      title: "Marble",
+      img: "Images/model/TimMauricio.jpg",
+      title: "Tim/Mauricio",
     },
     {
-      img: "Images/model/timpink.jpeg",
-      title: "Pink, Tim",
-    },
-    {
-      img: "Images/model/miumiutwo.jpeg",
-      title: "Untitled",
-    },
-    {
-      img: "Images/model/onthegrass.jpeg",
-      title: "On The Grass",
-    },
-    {
-      img: "Images/model/onfriday.jpeg",
-      title: "On Friday",
-    },
-    {
-      img: "Images/model/girlonherside.jpeg",
-      title: "On The Side",
+      img: "Images/model/timsofa.jpeg",
+      title: "A portrait of Tim, surrounded by the sofa",
     },
   ];
 
   return (
     <div className="ProjTwo">
       <Gallery galleryImages={galleryImagesTwo} />
+      <Link to="/substack" className="linkSubstack">
+        <h2 className="subTitle">Substack</h2>
+      </Link>
     </div>
   );
 }
