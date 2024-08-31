@@ -1,49 +1,44 @@
-.messageHeading {
-  border-top: solid 1.5px #434141;
-  color: #434141;
-  font-family: "Andale Mono";
-  font-weight: lightest;
-  text-transform: uppercase;
-  background-color: #f1efee;
+.contactForm {
+  margin-top: -20px;
+  margin-left: -25px;
+  margin-right: -25px;
+  padding: 10px;
 }
 
-.contactForm {
-  border-bottom: solid 1.5px #434141;
-  padding: 0px 0px 15px 0px;
-}
 .name,
 .yourEmail,
 .yourMessage {
-  border-top: solid 1.5px #434141;
+  border-top: solid 1px #434141;
   border-radius: 0px;
   border-bottom: none;
   border-right: none;
   border-left: none;
   background-color: #f1efee;
   width: 100vw;
-  font-size: 20px;
+  font-size: 15px;
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
-  padding: 20px 0px 20px 0px;
-  text-indent: 20px;
+  padding: 20px 0px;
+  text-indent: 35px;
 }
 .yourMessage {
-  border-bottom: solid 1.5px #434141;
+  border-bottom: solid 1px #434141;
   margin-bottom: 15px;
 }
 
 .pleaseSubmit {
   text-align: start;
-  margin-left: 15px;
+  margin-left: 0px;
   border: none;
   color: #434141;
   background-color: #f1efee;
   width: 100vw;
-  font-size: 20px;
+  font-size: 15px;
   font-family: "Andale Mono";
   font-weight: lightest;
   text-transform: uppercase;
+  text-indent: 27px;
 }
 
 .name:focus,
@@ -55,34 +50,4 @@
 
 input::placeholder {
   color: #434141;
-}
-
-@media (min-width: 900px) {
-  .contactForm {
-    margin-top: 50px;
-    display: inline;
-    position: absolute;
-    background-color: #f1efee;
-  }
-
-  .messageHeading {
-    margin-left: 0%;
-    background-color: #f1efee;
-  }
-
-  .name,
-  .yourEmail,
-  .yourMessage {
-    margin-left: 0%;
-    text-indent: 10%;
-    width: 100%;
-    background-color: #f1efee;
-  }
-
-  .pleaseSubmit {
-    text-indent: 8%;
-    margin-left: 15px;
-    width: 100%;
-    background-color: #f1efee;
-  }
 }

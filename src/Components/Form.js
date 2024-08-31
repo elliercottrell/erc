@@ -36,9 +36,6 @@ function ContactForm() {
 
   return (
     <div className="contactForm">
-      <div className="messageHeading">
-        <h2>Message</h2>
-      </div>
       <form ref={form} onSubmit={sendEmail}>
         <input
           type="text"
