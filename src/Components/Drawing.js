@@ -29,7 +29,7 @@ function Drawing() {
     },
     {
       img: "Images/model/living inside.jpeg",
-      title: "Living inside out",
+      title: "Living Inside out",
     },
     {
       img: "Images/model/Self portrait of someone else.jpeg",
