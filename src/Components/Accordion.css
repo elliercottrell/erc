@@ -23,7 +23,7 @@
 }
 
 .accordion .toggle:hover {
-  color: cornflowerblue;
+  color: #6495ed;
 }
 
 .accordionLabel {
@@ -36,7 +36,7 @@
 
 .accordion .toggle .direction-indicator {
   display: flex;
-  color: #434141;
+  color: #6495ed;
   align-items: center;
   justify-content: center;
   width: 15px;
