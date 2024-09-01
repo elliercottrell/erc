@@ -11,12 +11,8 @@ p {
   margin: 10px 20px;
 }
 
-h3 {
-  font-size: 10px;
+.title {
   text-transform: uppercase;
-  text-indent: 20px;
-  font-family: "Andale Mono";
-  font-weight: lightest;
 }
 
 a {

@@ -4,13 +4,13 @@ function About() {
   return (
     <div className="contactWrap">
       <div className="aboutText">
-        <h3>Exhibitions</h3>
+        <p className="title">Exhibitions</p>
         <p>November 2024 - Cass Art Prize, London</p>
         <p>
           August 2024 - Sixteen Online <i>Summer</i> Group Show, Cheltenham
         </p>
         <br />
-        <h3>Statement</h3>
+        <p className="title">Statement</p>
         <p>
           I am a drawer based in Cheltenham. Although doing an Art Foundation in
           2008 I went on to study graphic design and didn't return to a drawing
