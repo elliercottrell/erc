@@ -30,7 +30,8 @@ main {
   background-color: #f1efee;
   display: flex;
   justify-content: center;
-  margin-top: 78.9px;
+  margin-top: 100px;
+  margin-left: -15px;
   padding: 40px 0px;
   z-index: 9;
 }
