@@ -1,5 +1,5 @@
 .accordion-parent {
-  border: solid, 0px, #000;
+  border: solid, 0px, #434141;
   background-color: #f1efee;
   margin-top: -25px;
 }
@@ -28,6 +28,7 @@
 
 .accordionLabel {
   font-family: "Andale Mono";
+  color: #434141;
   font-size: 20px;
   padding: 0px;
   margin-bottom: 10px;
@@ -46,8 +47,8 @@
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-in;
-  color: black;
-  border-bottom: 1.5px solid #000;
+  color: #434141;
+  border-bottom: 1.5px solid #434141;
 }
 
 .accordion.toggled .content-parent {
