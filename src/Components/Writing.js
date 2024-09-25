@@ -4,6 +4,10 @@ import { Link } from "react-router-dom";
 function Writing() {
   const galleryImages = [
     {
+      img: "Images/substack/iAmSpleen.jpg",
+      link: "https://ercdraw.substack.com/p/i-am-spleen",
+    },
+    {
       img: "Images/substack/notesOnSummer_picsq.jpg",
       link: "https://ercdraw.substack.com/p/notes-on-summer",
     },
