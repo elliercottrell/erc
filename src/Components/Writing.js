@@ -4,6 +4,10 @@ import { Link } from "react-router-dom";
 function Writing() {
   const galleryImages = [
     {
+      img: "Images/substack/aPoem.jpg",
+      link: "https://ercdraw.substack.com/p/how-to-eat-the-sun-and-other-feelings",
+    },
+    {
       img: "Images/substack/iAmSpleen.jpg",
       link: "https://ercdraw.substack.com/p/i-am-spleen",
     },
@@ -14,10 +18,6 @@ function Writing() {
     {
       img: "Images/substack/flowers_sq.jpg",
       link: "https://ercdraw.substack.com/p/flowers-in-a-vase-which-stands-on",
-    },
-    {
-      img: "Images/substack/noteOnFailing_sq.jpg",
-      link: "https://ercdraw.substack.com/p/a-note-on-failing",
     },
   ];
 
