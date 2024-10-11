@@ -5,7 +5,8 @@ function About() {
     <div className="contactWrap">
       <div className="aboutText">
         <p className="title">Exhibitions</p>
-        <p>November 2024 - Cass Art Prize, London</p>
+        <p>November 2024 - Cass Art Prize, Copeland Gallery, London</p>
+        <p>October 2024 - The Postcard Show, Sixteen Gallery, Cheltenham</p>
         <p>
           August 2024 - Sixteen Online <i>Summer</i> Group Show, Cheltenham
         </p>
