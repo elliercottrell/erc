@@ -28,7 +28,7 @@ function Drawing() {
       title: "How To Eat The Sun",
     },
     {
-      img: "Images/model/living_inside_out.jpeg",
+      img: "Images/model/livingInsideOutWeb.jpeg",
       title: "Living Inside Out",
     },
     {
