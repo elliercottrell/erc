@@ -12,7 +12,7 @@ function Drawing() {
       title: "Wilding",
     },
     {
-      img: "Images/model/untitled.png",
+      img: "Images/model/untitled.jpg",
       title: "Untitled 🔴",
     },
     {
