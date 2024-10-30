@@ -20,8 +20,12 @@ function Drawing() {
       title: "Into The Sun I",
     },
     {
-      img: "Images/model/Self portrait of someone else.jpeg",
-      title: "Self Portrait of Someone Else 🔴",
+      img: "Images/model/tuckedBehindYourLiver.jpeg",
+      title: "Tucked Behind Your Liver",
+    },
+    {
+      img: "Images/model/wildMultiplicity.jpeg",
+      title: "Wild Multiplicity",
     },
     {
       img: "Images/model/how to eat the sun.jpeg",
@@ -32,16 +36,8 @@ function Drawing() {
       title: "Living Inside Out",
     },
     {
-      img: "Images/model/tuckedBehindYourLiver.jpeg",
-      title: "Tucked Behind Your Liver",
-    },
-    {
       img: "Images/model/timsofa.jpeg",
       title: "A portrait of Tim, surrounded by the sofa",
-    },
-    {
-      img: "Images/model/theboy.jpeg",
-      title: "Boy",
     },
     {
       img: "Images/model/intothesuntwo.jpg",
@@ -50,6 +46,10 @@ function Drawing() {
     {
       img: "Images/model/miumiutwo.jpeg",
       title: "Untitled",
+    },
+    {
+      img: "Images/model/Self portrait of someone else.jpeg",
+      title: "Self Portrait of Someone Else 🔴",
     },
   ];
 
