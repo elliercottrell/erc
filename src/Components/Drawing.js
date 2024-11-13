@@ -40,8 +40,8 @@ function Drawing() {
       title: "A portrait of Tim, surrounded by the sofa",
     },
     {
-      img: "Images/model/intothesuntwo.jpg",
-      title: "Into The Sun II",
+      img: "Images/model/whereUndineLastWasSeen.jpg",
+      title: "Where Undine Last Was Seen",
     },
     {
       img: "Images/model/miumiutwo.jpeg",
