@@ -20,10 +20,10 @@ function About() {
         <p>
           Since then I have continued to move through different mediums,
           currently working in oil pastel on paper exploring the figure and
-          natural forms. My journey into this new practice is at it's beginning
+          natural forms. My journey into this new practice is at its beginning
           and I feel in an experimental stage as I grow and learn with each
           piece. Through the current work I play with themes of human
-          interaction, it’s necessary vulnerabilities and representation of
+          interaction, its necessary vulnerabilities and representation of
           thoughts, repeatedly through the interference of nature. Drawn from
           owned photographs or modified found imagery; often rather than a
           portrait, figures and their interaction with their surroundings mean
