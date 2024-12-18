@@ -20,16 +20,16 @@ function Drawing() {
       title: "Into The Sun I",
     },
     {
-      img: "Images/model/tuckedBehindYourLiver.jpeg",
-      title: "Tucked Behind Your Liver",
-    },
-    {
       img: "Images/model/wildMultiplicity.jpeg",
       title: "Wild Multiplicity",
     },
     {
       img: "Images/model/how to eat the sun.jpeg",
       title: "How To Eat The Sun",
+    },
+    {
+      img: "Images/model/Demaphon falls, in the grass.jpg",
+      title: "Untitled",
     },
     {
       img: "Images/model/livingInsideOutWeb.jpeg",
@@ -44,8 +44,8 @@ function Drawing() {
       title: "Where Undine Last Was Seen",
     },
     {
-      img: "Images/model/miumiutwo.jpeg",
-      title: "Untitled",
+      img: "Images/model/tuckedBehindYourLiver.jpeg",
+      title: "Tucked Behind Your Liver",
     },
     {
       img: "Images/model/Self portrait of someone else.jpeg",
