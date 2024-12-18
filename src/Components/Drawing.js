@@ -29,7 +29,7 @@ function Drawing() {
     },
     {
       img: "Images/model/Demaphon falls, in the grass.jpg",
-      title: "Untitled",
+      title: "Demaphon falls, in the grass",
     },
     {
       img: "Images/model/livingInsideOutWeb.jpeg",
