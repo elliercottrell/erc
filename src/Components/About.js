@@ -15,7 +15,7 @@ function About() {
         </p>
         <p>
           November 2024 - Cass Art Prize, Copeland Gallery, London - Drawing
-          Prize Winner{" "}
+          <em>Prize Winner</em>
         </p>
         <p>October 2024 - The Postcard Show, Sixteen Gallery, Cheltenham</p>
         <p>
