@@ -14,8 +14,10 @@ function About() {
           Cheltenham
         </p>
         <p>
-          November 2024 - Cass Art Prize, Copeland Gallery, London - Drawing
-          <em>Prize Winner</em>
+          November 2024 - Cass Art Prize, Copeland Gallery, London -
+          <em>
+            <b> Drawing Prize Winner</b>
+          </em>
         </p>
         <p>October 2024 - The Postcard Show, Sixteen Gallery, Cheltenham</p>
         <p>
