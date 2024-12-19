@@ -5,7 +5,18 @@ function About() {
     <div className="contactWrap">
       <div className="aboutText">
         <p className="title">Exhibitions</p>
-        <p>November 2024 - Cass Art Prize, Copeland Gallery, London</p>
+        <p>
+          January 2025 - The Pastel Society Annual Exibition, Mall Galleries,
+          London
+        </p>
+        <p>
+          December 2024 - Small Works Winter Exhibition, Spring Gallery,
+          Cheltenham
+        </p>
+        <p>
+          November 2024 - Cass Art Prize, Copeland Gallery, London - Drawing
+          Prize Winner{" "}
+        </p>
         <p>October 2024 - The Postcard Show, Sixteen Gallery, Cheltenham</p>
         <p>
           August 2024 - Sixteen Online <i>Summer</i> Group Show, Cheltenham
