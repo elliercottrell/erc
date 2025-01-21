@@ -11,6 +11,10 @@ p {
   margin: 10px 20px;
 }
 
+.highlight {
+  background-color: #dbff13;
+}
+
 .title {
   text-transform: uppercase;
 }

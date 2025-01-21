@@ -5,7 +5,7 @@ function About() {
     <div className="contactWrap">
       <div className="aboutText">
         <p className="title">Exhibitions</p>
-        <p>
+        <p className="highlight">
           January 2025 - The Pastel Society Annual Exibition, Mall Galleries,
           London
         </p>
