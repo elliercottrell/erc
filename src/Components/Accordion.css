@@ -22,8 +22,8 @@
   cursor: pointer;
 }
 
-.accordion .toggle:hover {
-  color: #6495ed;
+.accordion .toggle:hover .direction-indicator {
+  color: #dbff13;
 }
 
 .accordionLabel {

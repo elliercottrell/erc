@@ -6,8 +6,10 @@ function About() {
       <div className="aboutText">
         <p className="title">Exhibitions</p>
         <p className="highlight">
-          January 2025 - The Pastel Society Annual Exibition, Mall Galleries,
-          London
+          January 2025 - The Pastel Society, Mall Galleries, London -
+          <em>
+            <b> Anthony J Lester Art Critic Award Winner</b>
+          </em>
         </p>
         <p>
           December 2024 - Small Works Winter Exhibition, Spring Gallery,
