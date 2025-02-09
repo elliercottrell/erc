@@ -8,8 +8,8 @@ function Drawing() {
       title: "At Once, Two Things",
     },
     {
-      img: "Images/model/Demaphon falls, in the grass.jpg",
-      title: "Apollo falls, in the grass",
+      img: "Images/model/Apollo falls, in the grass.jpg",
+      title: "Apollo Falls, In The Grass",
     },
     {
       img: "Images/model/wildMultiplicity.jpeg",
