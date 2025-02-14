@@ -4,6 +4,14 @@ import { Link } from "react-router-dom";
 function Writing() {
   const galleryImages = [
     {
+      img: "Images/substack/three_2.jpg",
+      link: "https://open.substack.com/pub/ercdraw/p/the-week-in-3-things?r=46pq47&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+    },
+    {
+      img: "Images/substack/three_1.jpg",
+      link: "https://ercdraw.substack.com/p/three-things-this-week",
+    },
+    {
       img: "Images/substack/aPoem.jpg",
       link: "https://ercdraw.substack.com/p/how-to-eat-the-sun-and-other-feelings",
     },
