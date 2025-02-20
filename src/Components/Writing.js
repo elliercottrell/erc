@@ -4,8 +4,12 @@ import { Link } from "react-router-dom";
 function Writing() {
   const galleryImages = [
     {
+      img: "Images/substack/three_3.jpg",
+      link: "https://ercdraw.substack.com/p/three-more-things",
+    },
+    {
       img: "Images/substack/three_2.jpg",
-      link: "https://open.substack.com/pub/ercdraw/p/the-week-in-3-things?r=46pq47&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      link: "https://ercdraw.substack.com/p/the-week-in-3-things",
     },
     {
       img: "Images/substack/three_1.jpg",
