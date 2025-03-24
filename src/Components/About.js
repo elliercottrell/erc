@@ -4,8 +4,19 @@ function About() {
   return (
     <div className="contactWrap">
       <div className="aboutText">
-        <p className="title">Exhibitions</p>
+        <p className="title">Exhibitions and Open Calls</p>
         <p className="highlight">
+          March 2026 - Jackson's Art Prize{" "}
+          <a
+            class="link"
+            href="https://jacksonsart.awardsplatform.com/gallery/ayyVGevb"
+            target="_blank"
+            rel="noopener"
+          >
+            Longlist
+          </a>
+        </p>
+        <p>
           January 2025 - The Pastel Society, Mall Galleries, London -
           <em>
             <b> Anthony J Lester Art Critic Award Winner</b>
