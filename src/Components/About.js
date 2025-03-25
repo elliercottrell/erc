@@ -10,8 +10,6 @@ function About() {
           <a
             class="link"
             href="https://jacksonsart.awardsplatform.com/gallery/ayyVGevb"
-            target="_blank"
-            rel="noopener"
           >
             Longlist
           </a>
