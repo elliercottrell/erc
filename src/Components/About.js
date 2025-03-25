@@ -66,6 +66,9 @@ function About() {
         <a href="https://www.instagram.com/erc.drawing/">
           <p>INSTAGRAM</p>
         </a>
+        <a href="https://www.sixteengallery.com/artists/ellie-cottrell">
+          <p>SIXTEEN ONLINE</p>
+        </a>
       </div>
     </div>
   );
