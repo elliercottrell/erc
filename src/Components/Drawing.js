@@ -12,29 +12,48 @@ function Drawing() {
       title: "How To Eat The Sun",
     },
     {
-      img: "Images/model/whereUndineLastWasSeen.jpg",
-      title: "Where Undine Last Was Seen",
+      img: "Images/model/otherwiseWeAreLost.jpg",
+      title: "The Rite of Spring: Otherwise We Are Lost",
     },
+    {
+      img: "Images/model/apolloFallsInTheGrass.jpeg",
+      title: "Apollo Falls, In The Grass",
+    },
+
     {
       img: "Images/model/livingInsideOutWeb.jpeg",
       title: "Living Inside Out",
     },
 
     {
-      img: "Images/model/otherwiseWeAreLost.jpg",
-      title: "The Rite of Spring: Otherwise We Are Lost",
-    },
-    {
       img: "Images/model/inWhatMovesThem.jpg",
       title: "The Rite of Spring: In What Moves Them",
     },
     {
-      img: "Images/model/apolloFallsInTheGrass.jpeg",
-      title: "Apollo Falls, In The Grass",
+      img: "Images/model/whereUndineLastWasSeen.jpg",
+      title: "Where Undine Last Was Seen",
     },
+
     {
       img: "Images/model/lifeStill.jpeg",
       title: "Life, Still",
+    },
+    {
+      img: "Images/model/tuckedBehindYourLiver.jpeg",
+      title: "Into The Light",
+    },
+
+    {
+      img: "Images/model/At Once Two Things_crop.jpg",
+      title: "At Once, Two Things",
+    },
+    {
+      img: "Images/model/FullSizeRender 16.jpg",
+      title: "Untitled",
+    },
+    {
+      img: "Images/model/pulledBackToTheEarth.jpg",
+      title: "Pulled Back To The Earth",
     },
   ];
 
