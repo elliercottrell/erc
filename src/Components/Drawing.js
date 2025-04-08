@@ -40,7 +40,7 @@ function Drawing() {
     },
     {
       img: "Images/model/tuckedBehindYourLiver.jpeg",
-      title: "Into The Light",
+      title: "Tucked Behind Your Liver",
     },
 
     {
