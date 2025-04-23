@@ -9,9 +9,9 @@ function About() {
           March 2026 - Jackson's Art Prize{" "}
           <a
             class="link"
-            href="https://jacksonsart.awardsplatform.com/gallery/ayyVGevb"
+            href="https://www.jacksonsart.com/blog/2025/04/07/see-the-prize-winners-of-jacksons-art-prize-2025/"
           >
-            Longlist
+            Pastel Award Winner
           </a>
         </p>
         <p>
