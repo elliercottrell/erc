@@ -16,15 +16,13 @@ function Drawing() {
       title: "The Rite of Spring: Otherwise We Are Lost",
     },
     {
+      img: "Images/model/ofAViolentChange.jpeg",
+      title: "Of A Violence",
+    },
+    {
       img: "Images/model/apolloFallsInTheGrass.jpeg",
       title: "Apollo Falls, In The Grass",
     },
-
-    {
-      img: "Images/model/livingInsideOutWeb.jpeg",
-      title: "Living Inside Out",
-    },
-
     {
       img: "Images/model/inWhatMovesThem.jpg",
       title: "The Rite of Spring: In What Moves Them",
@@ -39,21 +37,20 @@ function Drawing() {
       title: "Life, Still",
     },
     {
-      img: "Images/model/tuckedBehindYourLiver.jpeg",
-      title: "Tucked Behind Your Liver",
+      img: "Images/model/livingInsideOutWeb.jpeg",
+      title: "Living Inside Out",
     },
-
     {
       img: "Images/model/At Once Two Things_crop.jpg",
       title: "At Once, Two Things",
     },
     {
-      img: "Images/model/FullSizeRender 16.jpg",
-      title: "Untitled",
+      img: "Images/model/tuckedBehindYourLiver.jpeg",
+      title: "Tucked Behind Your Liver",
     },
     {
       img: "Images/model/pulledBackToTheEarth.jpg",
-      title: "Pulled Back To The Earth",
+      title: "The Rite of Spring: Pulled Back To The Earth",
     },
   ];
 
