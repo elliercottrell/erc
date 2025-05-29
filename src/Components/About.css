@@ -24,6 +24,18 @@ a {
   color: cornflowerblue;
 }
 
+.download {
+  font-family: "Andale Mono";
+  font-weight: lightest;
+  text-transform: uppercase;
+  color: cornflowerblue;
+  font-size: 10px;
+  margin-left: 20px;
+  border: solid, 1px;
+  padding: 3px;
+  cursor: pointer;
+}
+
 @media (min-width: 900px) {
   .aboutText {
     padding-bottom: 100px;

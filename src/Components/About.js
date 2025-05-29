@@ -1,6 +1,16 @@
 import "./About.css";
 
 function About() {
+  const onButtonClick = () => {
+    const pdfUrl = "Images/model/ERC_catalogue_of_works.pdf";
+    const link = document.createElement("a");
+    link.href = pdfUrl;
+    link.download = "ERC_catalogue_of_works.pdf";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   return (
     <div className="contactWrap">
       <div className="aboutText">
@@ -54,11 +64,25 @@ function About() {
           to convey a feeling or idea.
         </p>
         <p>
-          This ongoing collection explores ideas of the inside of <i>our</i>{" "}
-          minds. They aim to express how we interact with our own anxieties and
-          countervailing feelings of constraint and support, overwhelm and
-          creation. Although they aim to be "beautiful" they can also incite a
-          sense of unease and tension.{" "}
+          I am currently working on several series simultaneously. An untiled
+          series explores ideas of the inside of <i>our</i> minds, expressing
+          how we interact with our own anxieties and countervailing feelings of
+          constraint and support, overwhelm and creation, multiplicity and
+          duality. Although they aim to be "beautiful" they can also incite a
+          sense of unease and tension.
+        </p>{" "}
+        <p>
+          <i>The Rites of Spring</i> is a series inspired by Pina Bausch’s
+          version of the ballet, a story of ritual where a woman is chosen to
+          dance herself to death. She asks us ”How would you dance if you knew
+          you were going to die?” This image uses stills from that ballet to
+          think about ritual, collective expression and connection with the
+          earth in brief, fleeting moment of dance.
+        </p>
+        <p>
+          <i>Grass</i> is my conversation with mundanity, I am not sure yet
+          where it is taking me, as with all the collections, it is a thought in
+          progress.
         </p>
         <br />
         <a href="https://www.instagram.com/erc.drawing/">
@@ -67,6 +91,9 @@ function About() {
         <a href="https://www.sixteengallery.com/artists/ellie-cottrell">
           <p>SIXTEEN ONLINE</p>
         </a>
+        <button className="download" onClick={onButtonClick}>
+          Catalogue of Available works
+        </button>
       </div>
     </div>
   );
