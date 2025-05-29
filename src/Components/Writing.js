@@ -4,35 +4,35 @@ import { Link } from "react-router-dom";
 function Writing() {
   const galleryImages = [
     {
-      img: "Images/substack/three_4.jpg",
+      img: "Images/substack/Writing – 1.png",
       link: "https://ercdraw.substack.com/p/i-missed-a-week-so-i-guess-its-three",
     },
     {
-      img: "Images/substack/three_3.jpg",
+      img: "Images/substack/Writing – 2.png",
       link: "https://ercdraw.substack.com/p/three-more-things",
     },
     {
-      img: "Images/substack/three_2.jpg",
+      img: "Images/substack/Writing – 3.png",
       link: "https://ercdraw.substack.com/p/the-week-in-3-things",
     },
     {
-      img: "Images/substack/three_1.jpg",
+      img: "Images/substack/Writing – 4.png",
       link: "https://ercdraw.substack.com/p/three-things-this-week",
     },
     {
-      img: "Images/substack/aPoem.jpg",
+      img: "Images/substack/Writing – 5.png",
       link: "https://ercdraw.substack.com/p/how-to-eat-the-sun-and-other-feelings",
     },
     {
-      img: "Images/substack/iAmSpleen.jpg",
+      img: "Images/substack/Writing – 6.png",
       link: "https://ercdraw.substack.com/p/i-am-spleen",
     },
     {
-      img: "Images/substack/notesOnSummer_picsq.jpg",
+      img: "Images/substack/Writing – 7.png",
       link: "https://ercdraw.substack.com/p/notes-on-summer",
     },
     {
-      img: "Images/substack/flowers_sq.jpg",
+      img: "Images/substack/Writing – 8.png",
       link: "https://ercdraw.substack.com/p/flowers-in-a-vase-which-stands-on",
     },
   ];

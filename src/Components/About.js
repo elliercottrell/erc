@@ -37,9 +37,9 @@ function About() {
         <br />
         <p className="title">Statement</p>
         <p>
-          I am a drawer based in Cheltenham. Although doing an Art Foundation in
-          2008 I went on to study graphic design and didn't return to a drawing
-          practice until a short time ago.
+          I'm Ellie Cottrell, a drawer based in Cheltenham. Although doing an
+          Art Foundation in 2008 I went on to study graphic design and didn't
+          return to a drawing practice until a short time ago.
         </p>
         <p>
           Since then I have continued to move through different mediums,

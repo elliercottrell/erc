@@ -45,8 +45,8 @@ function Drawing() {
       title: "At Once, Two Things",
     },
     {
-      img: "Images/model/tuckedBehindYourLiver.jpeg",
-      title: "Tucked Behind Your Liver",
+      img: "Images/model/stillLifeInSpanish.jpg",
+      title: "Still Life in Spanish",
     },
     {
       img: "Images/model/pulledBackToTheEarth.jpg",
