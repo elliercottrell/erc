@@ -36,6 +36,12 @@ a {
   cursor: pointer;
 }
 
+.download:hover {
+  background-color: #dbff13;
+  color: #fafafa;
+  border: solid 1px cornflowerblue;
+}
+
 @media (min-width: 900px) {
   .aboutText {
     padding-bottom: 100px;
