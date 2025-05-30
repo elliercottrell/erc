@@ -16,7 +16,7 @@ function About() {
       <div className="aboutText">
         <p className="title">Exhibitions and Open Calls</p>
         <p className="highlight">
-          March 2025 - Jackson's Art Prize{" "}
+          June 2025 - Jackson's Art Prize, Bankside Gallery, London{" "}
           <a
             class="link"
             href="https://www.jacksonsart.com/blog/2025/04/07/see-the-prize-winners-of-jacksons-art-prize-2025/"
